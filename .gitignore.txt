@@ -1,0 +1,24 @@
+# Neće se dodati WordPress jezgro
+wp-admin/
+wp-includes/
+
+# Privatni fajlovi
+wp-config.php
+wp-config-sample.php
+
+# Mediji i privremeni fajlovi
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Backup i baze
+*.log
+*.sql
+*.zip
+*.tar.gz
+
+# Sistemski i editor fajlovi
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

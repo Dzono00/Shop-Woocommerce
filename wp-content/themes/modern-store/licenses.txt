@@ -1,0 +1,13 @@
+Modern Store WordPress Theme, Copyright 2019 Compete Themes
+Modern Store is distributed under the terms of the GNU GPL
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Modern Store also uses:
+
+* Fitvids, by Chris Coyier & Dave Ruper, https://github.com/davatron5000/FitVids.js/, licensed under the WTFPL license.
+* Body Scroll Lock, by Will Po, https://github.com/willmcpo/body-scroll-lock, licensed under the MIT license.
+* Google Fonts, http://google.com/fonts, licensed under open source licenses, see: https://developers.google.com/fonts/faq#Any_Page_OK.
+* Font Awesome by Dave Gandy, licensed under open source licenses, see: http://fortawesome.github.io/Font-Awesome/license/.
+* Background image in screenshot.png : licensed under CC0 by Benjamin Voros, https://stocksnap.io/photo/BWPRK5DEF0
